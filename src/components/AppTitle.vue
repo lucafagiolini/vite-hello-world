@@ -23,6 +23,6 @@ template {
 h1 {
     font-size: 4rem;
     text-align: center;
-    color: #8dc249;
+    color: #4CAF50;
 }
 </style>
