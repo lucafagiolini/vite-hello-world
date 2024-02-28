@@ -1,11 +1,18 @@
 <script>
+
 </script>
+
+
 
 <template>
     <div>
-        <h1>"La mia prima app con Vite!"</h1>
+        <h1>"Vit-Hello-Tonnato!"</h1>
     </div>
 </template>
+
+
+
+
 
 <style scoped>
 template {
@@ -14,7 +21,8 @@ template {
 }
 
 h1 {
+    font-size: 4rem;
     text-align: center;
-    color: red;
+    color: #8dc249;
 }
 </style>

@@ -15,7 +15,7 @@ export default {
 
 <!-- ********** HTML ********** -->
 <template>
-  <div>
+  <div id="app">
     <AppTitle />
   </div>
 </template>
@@ -24,4 +24,10 @@ export default {
 
 
 <!-- ********** CSS ********** -->    
-<style></style>
+<style scoped>
+#app {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+}
+</style>
