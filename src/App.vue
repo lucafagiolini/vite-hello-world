@@ -44,7 +44,7 @@ BUtton {
   background-color: #4CAF50;
   border: none;
   color: #2a3036;
-  padding: 15px 32px;
+  padding: 12px 22px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -52,6 +52,6 @@ BUtton {
   font-weight: bold;
   margin: 4px 2px;
   cursor: pointer;
-  border-radius: 0.3rem;
+  border-radius: 0.4rem;
 }
 </style>
